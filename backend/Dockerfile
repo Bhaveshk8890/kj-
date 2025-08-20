@@ -28,3 +28,5 @@ EXPOSE 8001
 # Command to run the application (update if your entrypoint is different)
 CMD ["python", "main.py"]
 #Dummy command to automation
+
+#ddjdslkjvlk
