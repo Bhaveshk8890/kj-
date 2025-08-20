@@ -24,5 +24,3 @@ COPY --from=build /app/dist .
 
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
-#changes in backedn docekrfile
-# --- IGNORE ---
