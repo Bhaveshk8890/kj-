@@ -24,5 +24,3 @@ COPY --from=build /app/dist .
 
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
-# Expose the port (change if your app uses a different port) dummy comment
-# CMD ["nginx", "-g", "daemon off;"] dummy comment

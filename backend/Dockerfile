@@ -27,7 +27,3 @@ EXPOSE 8001
 
 # Command to run the application (update if your entrypoint is different)
 CMD ["python", "main.py"]
-#frontend update in docker file
-
-# updating the fake dummy code in backend Dockerfile
-# Use an official Node.js image as the base dummay comment
